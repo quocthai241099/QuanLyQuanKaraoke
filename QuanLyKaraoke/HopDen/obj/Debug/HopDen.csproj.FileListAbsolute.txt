@@ -1,0 +1,9 @@
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\HopDen\bin\Debug\HopDen.dll
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\HopDen\bin\Debug\HopDen.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\HopDen\obj\Debug\HopDen.dll
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\HopDen\obj\Debug\HopDen.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\HopDen\obj\Debug\HopDen.csprojResolveAssemblyReference.cache
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\HopDen\bin\Debug\HopDen.dll
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\HopDen\bin\Debug\HopDen.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\HopDen\obj\Debug\HopDen.dll
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\HopDen\obj\Debug\HopDen.pdb

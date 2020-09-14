@@ -1,0 +1,9 @@
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\ThietKeControl\bin\Debug\ThietKeControl.dll
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\ThietKeControl\bin\Debug\ThietKeControl.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\ThietKeControl\obj\Debug\ThietKeControl.dll
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\ThietKeControl\obj\Debug\ThietKeControl.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\ThietKeControl\obj\Debug\ThietKeControl.csprojResolveAssemblyReference.cache
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\ThietKeControl\bin\Debug\ThietKeControl.dll
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\ThietKeControl\bin\Debug\ThietKeControl.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\ThietKeControl\obj\Debug\ThietKeControl.dll
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\ThietKeControl\obj\Debug\ThietKeControl.pdb

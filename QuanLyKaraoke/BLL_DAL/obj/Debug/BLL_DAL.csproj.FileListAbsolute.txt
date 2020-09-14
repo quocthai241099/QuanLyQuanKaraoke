@@ -1,0 +1,10 @@
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\BLL_DAL\bin\Debug\BLL_DAL.dll
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\BLL_DAL\bin\Debug\BLL_DAL.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\BLL_DAL\obj\Debug\BLL_DAL.dll
+D:\Work\PhatTrienPhanMem\DoAn\DoAnFull\QuanLyKaraoke\BLL_DAL\obj\Debug\BLL_DAL.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\BLL_DAL\bin\Debug\BLL_DAL.dll
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\BLL_DAL\bin\Debug\BLL_DAL.pdb
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\BLL_DAL\obj\Debug\BLL_DAL.dll
+D:\Work\PhatTrienPhanMem\DoAn\DA_LTCSHARP2_QLKaraoke\QuanLyKaraoke\BLL_DAL\obj\Debug\BLL_DAL.pdb
